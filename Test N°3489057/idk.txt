@@ -1,0 +1,15 @@
+Para poder ejeutar el archivo "main.py" es necesario seguir los siguientes pasos :
+
+1- Tener instalado Visual Studio Code ( Si no lo tienes ve a la pagina oficial y sigue las instrucciones ) 
+2- Tener instalado python junto con pip ( Si no lo tienes ve a la pagina oficial y sigue las instrucciones ) 
+3- En la terminal ( ya sea de Windows , Linux o de Visual Studio ) escribir "pip install pyTelegramBotAPI" ( Cualquier cosa "pip install pyserial")
+4- Se debe cargar el programa .ino al Arduino con la IP Correcta (el .ino que esta en la carpeta)
+5- Este paso nose si es necesario pero por las dudas descargar la extension de python de Visual Studio Code
+6- Cambiar en el archivo .py la IP por la correcta
+7- Y por ultimo ejecutar el .py en la terminal con "python main.py"
+
+
+A su vez por si las dudas cerrar el arduino ide una vez ya cargado el programa
+
+Ante cualquier otra duda verificar el codigo porque hay algunos comentarios escritos los cuales estoy seguro que no te van a servir de nada
+pero ahi estan si los necesitas
